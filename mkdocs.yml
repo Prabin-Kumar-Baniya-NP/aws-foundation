@@ -14,10 +14,14 @@ nav:
       - AWS WAF: waf.md
       - Best Practices: best-practices.md
 
-  - Cloud Economics & Billing:
-      - Basics: index.md
-
   - Global Infrastructure:
+      - Region: region.md
+      - Availability Zone: availability-zone.md
+      - Data Center: data-center.md
+      - Local Zone: local-zones.md
+      - Points of Presence: pop.md
+
+  - Cloud Economics & Billing:
       - Basics: index.md
 
   - Cloud Security:
