@@ -1,3 +1,54 @@
-site_name: AWS Foundation
+site_name: AWS Foundational Concepts
 theme:
   name: material
+  icon:
+    logo: fontawesome/brands/aws
+  font:
+    text: Roboto
+
+nav:
+  - Cloud Computing:
+      - Introduction: cloud-computing-basics.md
+      - AWS CAF: aws-caf.md
+      - Cloud Architecture: cloud-architecture.md
+      - AWS WAF: waf.md
+      - Best Practices: best-practices.md
+
+  - Cloud Economics & Billing:
+      - Basics: index.md
+
+  - Global Infrastructure:
+      - Basics: index.md
+
+  - Cloud Security:
+      - Basics: index.md
+
+  - Network Environement:
+      - Basics: index.md
+
+  - Compute:
+      - Basics: index.md
+
+  - Storage:
+      - Basics: index.md
+
+  - Database:
+      - Basics: index.md
+
+  - Cloud Architecture:
+      - Basics: index.md
+
+  - Caching Content:
+      - Basics: index.md
+
+  - Decoupled Architecture:
+      - Basics: index.md
+
+  - Microservices Architecture:
+      - Basics: index.md
+
+  - Serverless Architecture:
+      - Basics: index.md
+
+  - Disaster Planning:
+      - Basics: index.md
