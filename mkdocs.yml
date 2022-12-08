@@ -22,7 +22,10 @@ nav:
       - Points of Presence: pop.md
 
   - Cloud Economics & Billing:
-      - Basics: index.md
+      - Pricing Model: pricing-model.md
+      - AWS Organization: organizations.md
+      - AWS Billing: billing.md
+      - Technical Support: support.md
 
   - Cloud Security:
       - Basics: index.md
