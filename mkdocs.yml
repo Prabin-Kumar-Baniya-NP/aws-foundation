@@ -28,7 +28,15 @@ nav:
       - Technical Support: support.md
 
   - Cloud Security:
-      - Basics: index.md
+      - IAM: iam.md
+      - AWS CloudTrail: cloud-trail.md
+      - Access Control: access-control.md
+      - AWS KMS: aws-kms.md
+      - AWS Cognito: cognito.md
+      - AWS Shield: shield.md
+      - Data Encryption: encryption.md
+      - AWS Config: config.md
+      - AWS Artifact: artifact.md
 
   - Network Environement:
       - Basics: index.md
