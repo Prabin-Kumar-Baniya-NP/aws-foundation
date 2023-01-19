@@ -38,8 +38,13 @@ nav:
       - AWS Config: config.md
       - AWS Artifact: artifact.md
 
-  - Network Environement:
-      - Basics: index.md
+  - Network Environment:
+      - Networking Basics: networking-basics.md
+      - Amazon VPC: vpc.md
+      - VPC Networking: vpc-networking.md
+      - VPC Security: vpc-security.md
+      - Route 53: route-53.md
+      - CloudFront: cloudfront.md
 
   - Compute:
       - Basics: index.md
