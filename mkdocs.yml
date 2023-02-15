@@ -47,7 +47,16 @@ nav:
       - CloudFront: cloudfront.md
 
   - Compute:
-      - Basics: index.md
+      - EC2 Introduction: compute-services.md
+      - EC2 Pricing Model: ec2-pricing.md
+      - EC2 Cost Optimization: ec2-cost-optimization.md
+      - Container Services: container-services.md
+      - Amazon ECS: ecs.md
+      - Amazon EKS: eks.md
+      - Amazon ECR: ecr.md
+      - AWS Lambda: lambda.md
+      - AWS Elastic Beanstalk: beanstalk.md
+      - Placement Group: placement-group.md
 
   - Storage:
       - Basics: index.md
