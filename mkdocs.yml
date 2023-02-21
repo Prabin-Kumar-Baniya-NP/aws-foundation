@@ -59,7 +59,9 @@ nav:
       - Placement Group: placement-group.md
 
   - Storage:
-      - Basics: index.md
+      - AWS EBS: ebs.md
+      - AWS S3: s3.md
+      - AWS EFS: efs.md
 
   - Database:
       - Basics: index.md
