@@ -64,7 +64,8 @@ nav:
       - AWS EFS: efs.md
 
   - Database:
-      - Basics: index.md
+      - Amazon RDS: rds.md
+      - Amazon DynamoDB: dynamodb.md
 
   - Cloud Architecture:
       - Basics: index.md
