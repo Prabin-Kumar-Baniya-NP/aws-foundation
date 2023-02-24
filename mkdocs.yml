@@ -12,6 +12,7 @@ nav:
       - AWS CAF: aws-caf.md
       - Cloud Architecture: cloud-architecture.md
       - AWS WAF: waf.md
+      - AWS Trusted Advisor: aws-ta.md
       - Best Practices: best-practices.md
 
   - Global Infrastructure:
@@ -67,8 +68,11 @@ nav:
       - Amazon RDS: rds.md
       - Amazon DynamoDB: dynamodb.md
 
-  - Cloud Architecture:
-      - Basics: index.md
+  - Scaling and Monitoring:
+      - Scaling Compute Capacity: ec2-auto-scaling.md
+      - Scaling Database Resource: scaling-db.md
+      - Highly Available Environment: load-balancing.md
+      - Monitoring: cloudwatch.md
 
   - Caching Content:
       - Basics: index.md
