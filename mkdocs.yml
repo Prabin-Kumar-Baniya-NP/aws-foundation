@@ -75,16 +75,13 @@ nav:
       - Monitoring: cloudwatch.md
 
   - Caching Content:
-      - Basics: index.md
+      - Edge Caching: edge-caching.md
+      - Elastic Cache: elastic-cache.md
 
-  - Decoupled Architecture:
-      - Basics: index.md
-
-  - Microservices Architecture:
-      - Basics: index.md
-
-  - Serverless Architecture:
-      - Basics: index.md
+  - Application Architecture:
+      - Decoupled Architecture: index.md
+      - Microservice Architecture: index.md
+      - Serverless Architecture: index.md
 
   - Disaster Planning:
       - Basics: index.md
