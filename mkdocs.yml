@@ -79,7 +79,7 @@ nav:
       - Elastic Cache: elastic-cache.md
 
   - Application Architecture:
-      - Decoupled Architecture: index.md
+      - Decoupled Architecture: decoupled-architecture.md
       - Microservice Architecture: index.md
       - Serverless Architecture: index.md
 
