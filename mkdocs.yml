@@ -80,8 +80,7 @@ nav:
 
   - Application Architecture:
       - Decoupled Architecture: decoupled-architecture.md
-      - Microservice Architecture: index.md
-      - Serverless Architecture: index.md
+      - Serverless Architecture: serverless.md
 
   - Disaster Planning:
       - Basics: index.md
