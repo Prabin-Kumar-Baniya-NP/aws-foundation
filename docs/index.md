@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# AWS Cloud Computing Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Prepared By Prabin Kumar Baniya
 
-## Commands
+All the content and images are taken from AWS Academy Courses.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Cloud Foundation](./images/cloud-foundation-badge.png)
+![Cloud Architecting](./images/aws-architecting-badge.png)
